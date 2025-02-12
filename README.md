@@ -8,4 +8,4 @@ La base de datos cuenta con la siguiente información:
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./Regresion_no_lineal.ipynb)
 - [Reporte en formato html](./Regresion_no_lineal.html)
-- [Base de datos](./Tiempodeentrega.csv)
+- [Base de datos](./Entrega.csv)
